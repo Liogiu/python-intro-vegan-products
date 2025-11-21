@@ -23,8 +23,7 @@ python-intro-vegan-products/
 └── vegan_shop_functions.py # Core functions for inventory & profits
 
 ---
-
-▶️ How to Run the Program
+How to Run the Program
 
 1. Make sure you have **Python 3** installed  
 2. Run the main script:
@@ -65,7 +64,7 @@ Its main goal was to practice:
 
 ---
 
-## 👨‍💻 Author
+Author
 
 **Giulio Zerilli**  
 Data Analyst | Python & Machine Learning  
