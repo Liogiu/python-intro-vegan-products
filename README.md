@@ -5,7 +5,7 @@ This is an introductory exercise from my Data Science & Python course and repres
 
 ---
 
-## 📦 Project Features
+Project Features
 
 - Add new products with quantity, purchase price and selling price  
 - List all available products  
@@ -16,7 +16,7 @@ This is an introductory exercise from my Data Science & Python course and repres
 
 ---
 
-## 🗂️ Project Structure
+Project Structure
 
 python-intro-vegan-products/
 ├── vegan_shop.py # Main program (CLI)
@@ -24,13 +24,13 @@ python-intro-vegan-products/
 
 ---
 
-## ▶️ How to Run the Program
+▶️ How to Run the Program
 
 1. Make sure you have **Python 3** installed  
 2. Run the main script:
 python vegan_shop.py
 
-3. Follow the commands shown in the menu:
+Follow the commands shown in the menu:
 
 - `aggiungi` – add product  
 - `elenca` – list inventory  
@@ -41,7 +41,7 @@ python vegan_shop.py
 
 ---
 
-## 📁 Data Storage
+Data Storage
 
 The program automatically saves two JSON files:
 
@@ -52,7 +52,7 @@ Both are updated after each operation.
 
 ---
 
-## 🎯 Purpose of This Project
+Purpose of This Project
 
 This project was created as part of my training path as a Data Analyst & Junior Data Scientist.  
 Its main goal was to practice:
