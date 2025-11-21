@@ -14,15 +14,6 @@ Project Features
 - Save inventory and profits to JSON files  
 - Simple command-line interface
 
----
-
-Project Structure
-
-python-intro-vegan-products/
-├── vegan_shop.py # Main program (CLI)
-└── vegan_shop_functions.py # Core functions for inventory & profits
-
----
 How to Run the Program
 
 1. Make sure you have **Python 3** installed  
